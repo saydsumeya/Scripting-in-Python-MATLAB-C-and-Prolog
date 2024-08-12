@@ -17,5 +17,3 @@ C (ccprog.c, ccprog2.c): Handles low-level image manipulations, including flippi
 Haskell (haskell2.hs): Applies functional programming techniques to process and transform the image in a unique manner.
 
 Prolog (prolog.pl): Manages logical operations and decision-making processes involved in the image processing pipeline.
-
----
